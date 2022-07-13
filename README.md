@@ -2,7 +2,7 @@
 Blog Website PHP Source Code
 
 Step 1: Download source code.
-personal_blog system in php
+personal_blog system in php You can get the codes from code.docx or you can open the folder ferom any code editor like sublime text or vs code after extracting the project file into the required location given below.
 
 Step 2: Extract File.
 Once the file has finished downloading, navigate to its location and right-click it to extract it.
@@ -26,3 +26,5 @@ in userlog there are 4 columns id[primary key and auto increment],blogtitle[varc
 
 Step 7: Execution.
 Finally, type localhost/multi_user_login into any browser
+
+
